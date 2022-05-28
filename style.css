@@ -157,7 +157,7 @@
 
 /* Completed */
 
-#list_uncompleted .section__label {
+#list_completed .section__label {
     text-decoration: line-through;
     color: #888;
 }
