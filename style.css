@@ -50,11 +50,13 @@
     padding: 0px;
 }
 
-.section__list-item, .section__header {
+.section__list-item, 
+.section__header {
     list-style: none;
 }
 
-.input, .button{
+.input, 
+.button{
     outline: none;
 }
 
